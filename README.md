@@ -28,9 +28,6 @@
 <h1 align="center">🏆 GitHub Trophies</h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=developermansournassarofficial&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
-<!-- <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=developermansournassarofficial&theme=prussian&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p> -->
 
 <h1 align="center">✍️ Random Dev Quote</h1>
 <p align="center">
@@ -40,8 +37,10 @@
 <h1 align="center">🔝 Top Contributed Repo</h1>
 
 ![](https://github-contributor-stats.vercel.app/api?username=developermansournassarofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<!-- <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=developermansournassarofficial&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p> -->
-  
+
+<h2 align="center">🐍 Watch snake eating my github contributions</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/developermansournassarofficial/developermansournassarofficial/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
